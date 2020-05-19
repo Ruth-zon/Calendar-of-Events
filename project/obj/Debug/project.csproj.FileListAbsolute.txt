@@ -1,0 +1,61 @@
+M:\c#\project\project\bin\Debug\project.exe.config
+M:\c#\project\project\bin\Debug\project.exe
+M:\c#\project\project\bin\Debug\project.pdb
+M:\c#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+M:\c#\project\project\obj\Debug\project.day.resources
+M:\c#\project\project\obj\Debug\project.Form1.resources
+M:\c#\project\project\obj\Debug\project.Properties.Resources.resources
+M:\c#\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+M:\c#\project\project\obj\Debug\project.exe
+M:\c#\project\project\obj\Debug\project.pdb
+M:\c#\project\project\obj\Debug\project.Eventsf.resources
+M:\c#\project\project\obj\Debug\project.Weddingf.resources
+M:\c#\project\project\obj\Debug\project.Bar_mitzvaf.resources
+M:\c#\project\project\obj\Debug\project.Birthdayf.resources
+M:\c#\project__\project\bin\Debug\project.exe.config
+M:\c#\project__\project\bin\Debug\project.exe
+M:\c#\project__\project\bin\Debug\project.pdb
+M:\c#\project__\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+M:\c#\project__\project\obj\Debug\project.Bar_mitzvaf.resources
+M:\c#\project__\project\obj\Debug\project.Birthdayf.resources
+M:\c#\project__\project\obj\Debug\project.day.resources
+M:\c#\project__\project\obj\Debug\project.Eventsf.resources
+M:\c#\project__\project\obj\Debug\project.Form1.resources
+M:\c#\project__\project\obj\Debug\project.Properties.Resources.resources
+M:\c#\project__\project\obj\Debug\project.Weddingf.resources
+M:\c#\project__\project\obj\Debug\project.csproj.GenerateResource.Cache
+M:\c#\project__\project\obj\Debug\project.exe
+M:\c#\project__\project\obj\Debug\project.pdb
+M:\c#\project__\project\obj\Debug\project.Search.resources
+M:\c#\project\project\obj\Debug\project.Search.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\bin\Debug\project.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\bin\Debug\project.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\bin\Debug\project.pdb
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Bar_mitzvaf.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Birthdayf.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.day.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Eventsf.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Form1.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Properties.Resources.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Search.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Weddingf.resources
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.pdb
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\bin\Debug\project.exe.config
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\bin\Debug\project.exe
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\bin\Debug\project.pdb
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Bar_mitzvaf.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Birthdayf.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.day.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Eventsf.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Form1.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Properties.Resources.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Search.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.Weddingf.resources
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.exe
+D:\מסמכים\פרויקטים הנדסאים\project_c#\project\obj\Debug\project.pdb

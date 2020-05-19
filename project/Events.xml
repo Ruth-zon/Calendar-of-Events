@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--קובץ זה שומר נתוני ארועים-->
+<Events>
+  <wedding date="2018-07-31T00:00:00" place="ההה" chatan="דוד" cala="דוד" />
+  <wedding date="2018-07-25T00:00:00" place="לחיים" chatan="?" cala="?" />
+  <wedding date="2018-08-01T00:00:00" place="קרית ספר" chatan="אהרון" cala="אהרון" />
+  <Bar_mitzvah date="2018-07-13T00:00:00" place="אאא" chatan="יצחק" />
+  <Bar_mitzvah date="2018-09-25T00:00:00" place="ההה" chatan="ישראל" />
+  <birthday date="2018-07-17T00:00:00" place="בבב" name="רות" age="19" />
+  <birthday date="2018-09-08T00:00:00" place="ללל" name="בתיה" age="48" />
+  <birthday date="2018-08-08T00:00:00" place="בקיצור" name="ברכי" age="17" />
+  <birthday date="2019-07-06T00:00:00" place="" name="gfds" age="0" />
+</Events>
